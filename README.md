@@ -1,16 +1,17 @@
-### Hi there 👋
+## Óla ✌️
 
-<!--
-**joaonavarro2/joaonavarro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou João Navarro
 
-Here are some ideas to get you started:
+Estudante de Desenvolvimento de Sistemas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente é conseguir um Estágio Front end, Back end  ou Full Stack 
+
+<div> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonavarro2&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonavarro2&layout=compact&theme=tokyonight"/>
+</div>  
+  
+  ## Meus contatos  😊
+  
+    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/João Navarro#1832)
+  
