@@ -2,7 +2,7 @@
 
 Eu sou João Navarro
 
-Estudante de Desenvolvimento de Sistemas 
+Estundando na UFBA: bacharelado interdisciplinar em ciência e tecnologia - 2 semestre 
 
 Meu foco atualmente é conseguir um Estágio Front end, Back end  ou Full Stack 
 
